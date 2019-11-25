@@ -1,0 +1,190 @@
+= Torts
+
+Tort:: A tortious act, aka a twisted act. Generally refers to a wrong committed against someone/something
+
+== Civil vs Criminal offence
+
+|===
+||Civil |Criminal
+
+| Kind of offence
+| Private wrong, a violation of someone else's right
+| Public wrong, an egregious violation of someone else's right that deserves societal intervention so as to punish such violation, in this case _state_ on behalf of _society_
+
+| Terms used to describe parties
+| Plaintiff (The party that filed the com__plaint__) vs Defendant (The party __defend__ing itself)
+| Prosecution (The _state_ on behalf of _society_) vs Accused (The party _accused_ of committing a crime)
+
+| Kind of evidence required
+| Preponderance of probabilities/Preponderance of the evidence, aka proving that the event occurred more likely than not. Think of it like *>51%* certain
+| Beyond reasonable doubt, i.e A guilty verdict can only be produced only when all doubts are answered to the utmost satisfaction & there are no more pending questions that raises questions about the guilt of the accused. Think of it like *~95%* certain
+
+| Burden of proof
+| Both plaintiff & defendant must make a positive case to convince the judge that on whether wrong was done (or) if it was done, was it exceptional, i.e it was unintentional unavoidable act even when he took due care (not applicable in case strict liability & absolute liability)
+| Only prosecution has the responsibility to clear all doubts raised. If prosecution fails to do that, the person is not guilty
+
+| Kind of remedy
+| Compensation for the damages suffered by plaintiff. The life & liberty of defendant are not at stake
+| Punishment for the wrong. The life (in some countries where death penalty still exists) & liberty (jail) of accused are at stake
+
+| Kind of defence defendant/accused is allowed to take
+| As the life & liberty of the defendant are **NOT** at stake, the defendant is required to put forward a positive case to avoid paying for damages. Not defending one self can amount to admission of guilt
+| As the life & liberty of the accused are at stake, the defendant has the right to remain silent & is not be compelled to become a witness against himself
+|===
+
+== Elements of a tort
+
+Mental:: State of mind when performing tortious  act
+Physical/Non-mental:: Acts dependent performed/circumstances the dependent caused
+
+And the causal link between the two
+
+=== Intentional torts
+
+Mental element: Intent
+
+Intent is always derived from the objective evidence of the circumstance as we can never know whats happening in someone's head
+
+==== Mental states
+
+Here the mental states a defendant who committed an intentional tort can be in
+
+* Conscious objective
+* Substantial certainty
+* Recklessness
+
+===== Conscious objective
+
+Acting with the specific purpose of bringing about non mental element of the tort. Also known as _Specific intent_
+
+===== Substantial certainty
+
+Acting with the Knowledge/Substantial certainty that the non mental elements will materilize. Also known as _General intent_
+
+===== Recklessness
+
+Acting with unreasonable disregard of a high probability that a non mental element of a tort would occur & there is no offsetting justification for taking such a high risk
+
+E.g
+
+* Asking someone to keep a pot on their head & throwing stone at the pot is a reckless act
+* A doctor performing a surgery on a patient who 100% certain to die if not operated, but there is only 5% chance the patient would live if surgery is performed, its not recklessness (offsetting justification)
+
+==== Not having the intent is no excuse once the deed is done
+
+It always never matters what the original intent of the defendant is, if the act brings about circumstances that are originally unintended by the defendant
+
+E.g: Defendant wanting to slap a person & instead damaging his ear drum will be considered as the intent to damage the other person's ear drum,
+not as a intent to
+
+This is known as
+
+papier-mache plaintiff rule:: Defendant takes the plaintiff as he finds him with all plaintiff's frailties
+
+papier-mache is a composite material made out of paper pulp which is not a strong material => plaintiff may be as weak as a man can be.
+So defendant cant take refuse in not knowing the state of defendant once damage is done
+
+==== Transferred intent
+
+An act thats considered as a tort will automatically gets transferred even if the defendant's intent was not that originally
+
+E.g
+
+* If I wanted to scare you with a gun by clicking, but I shoot you instead, its considered as if you wanted to kill
+* If I wanted to punch you, but punch a different in the process, the intent to punch you gets transferred as if you wanted to punch that person to begin with
+
+==== Battery & Assault
+
+===== Battery
+
+_Act_ done by defendant with the _intent_ & does bring about _physical contact_ with the plaintiff thats either _harmful_ (or) _offensive_
+
+So long as the defendant _sets in a series of events_ that lead to harmful (or) offensive contact
+
+This needs not direct physical contact. It can also be throwing a rock (or) pulling a person by collar (or) digging hole knowing the plaintiff would fall into it, e.t.c
+
+The plaintiff need not even aware of such a contact.
+
+E.g a surgeon authorized to solve one problem of a patient, does something else and harms the patient while patient is still anesthetized
+
+====== Bodily harm
+
+Physical impairment of teh condition of other person's body (or) physical pain (or) illness
+
+eg.
+
+. Punching someone
+. Accident
+
+====== Offensive contact
+
+If a _reasonable_, _ordinary_ person in plaintiff position would find that to be offensive under all circumstances.
+This dependents on the social customs & the location where it is occurred.
+
+E.g
+
+. Touching women in appropriately
+
+====== Exception
+
+* Consent so long as the contact does not exceed the consent provided
+* Context dependent. E.g, Customary bumping & jostle in a crowded train might considered OK when compared to a offensive touch in a park
+
+===== Assault
+
+Defendant brings about a set of events that makes a _reasonable person_ in plaintiff position feels that a _imminent battery_ is about to take place
+
+Even if the plaintiff is not afraid of the battery, but the defendant does an over act of battery, like scaring someone with a knife, even if you dont feel initially he would do it, it can be considered an assault if he proceeds to do it
+
+==== Kidnap & False imprisonment
+
+===== False imprisonment
+
+Act by dependent _intended to_ and _does in fact_ cause the plaintiff to be _confined_ non-consentually with a fixed set of boundaries of the defendant's chosing for any appreciable length of time
+
+====== Confinement
+
+Is at the heart of the confinement
+
+==== Exception
+
+* Consent is a general defence against battery so long as the act does not exceed the consent given.
+
+There are two types of consent
+
+===== Expressed
+
+Explicit statement of consent by plaintiff. The consent must be valid
+
+====== Valid consent
+
+======= Informed
+
+A _reasonable person_ know _whatever_ need (or) want to know to give the consent
+
+Becomes invalid if its predicated upon a fundamental mistake of which defendant is aware
+
+======= Voluntary
+
+When it is the plaintiff's volition, procured without duress, coercion (or) undue influence, not free from pressure (or) persuasion
+
+======= Legal capacity to consent
+
+Not a Minor, of unsound mind/incompetent (or) someone under the influence of a substance [drugs, liquor, e.t.c] who cant make critical judgements
+
+===== Implied
+
+. Plaintiff's conduct gives a reasonable person in defendant's position to infer consent to have occurred; _Consent implied in fact_
+
+E.g
+
+* If sign up to watch a cricket match, it is implied that I consented to being hit by a cricket ball when ever a six is hit
+* If I enter into the a bus, it is implied that I am implicitly consenting to customary bumps from other passengers if the bus is full
+
+. Law deems consent to have occurred, even if plaintiff dint; aka _Consent implied in law_
+
+E.g
+
+* If I find a person who has just met with an accident and the person is not moving (a possible emergency), it is not a battery if I give CPR to prevent harm to plaintiff. Law assumes that the plaintiff has consented implicitly
+
+* Minors, incompetent & insane people can form the requisite form the "intent" part of an intentional tort, but are not held criminally liable because of their incapacity

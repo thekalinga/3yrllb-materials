@@ -1,0 +1,194 @@
+= Tort
+
+== Uncategorized
+
+. Explain the maxim _damning sine injuria and injuria sine damning_ with the help of decided cases
+. _Harm suffered voluntarily does not constitute a legal injury and is not actionable_. Examine the scope of this rule
+. Explain briefly the exceptions to the general rule that all persons are liable to be sued
+. Is nervous shock, a redressible injury under tort ? Discuss
+. Inevitable accident
+. Statutory authority
+. _Every injury imports damage but every damage is not injury_. Discuss the statement in the light of decided cases
+. Application for compensation under Motor Vehicles Act
+. Explain the justification of torts in the following :
+.. Inevitable accident
+.. Act of God
+
+== Torts Basics
+
+. Define tort and explain the essential elements of tort
+. Define Tort. Explain the essential elements of tort with decided cases
+. Bring out the importance of mental elements in tort
+. Define _Tort_ and bring out all the essentials of Torts with illustrations
+. Explain the importance of mental elements in torts
+. What is _Tortious liability_? Distinguish between intention, motive and Malice
+
+== Tort vs Contract vs Criminal
+
+. Define _Torts_. Distinguish Torts from contractual and criminal liability.
+. Define and distinguish between Tort and Crime, Tort and Contract.
+. Define _Tort_ and distinguish it from the crime and contract.
+. Distinguish between tort and crime, tort and contract.
+
+== Trespass
+
+=== To person
+
+. Define _Assault_ and distinguish it from _Battery_. State the circumstances in which they may be justified.
+. Explain assault and battery. Refer decided cases.
+. Explain Trespass to person.
+
+== Tort Defences/Remedies
+
+. Narrate the various remedies available in an action for tort.
+. What are the general defences available in cases of tortious liability ? Explain.
+. Explain the general defences available against tortious liability.
+. What are the remedies available for a tort ?
+. Enumerate and examine the general defences to an action in tort.
+. Explain the various kinds of remedies available in tort.
+. Enumerate and examine the general defences to an action in Tort.
+
+== Defamation
+
+. What is _Defamation_ ? Distinguish Libel and Slander. When Slander becomes actionable per se ?
+. Discuss the defences available in an action for tort of defamation.
+. Define defamation and explain with appropriate cases, the essential features of defamation.
+. What is libel ? Explain the essentials of libel.
+
+== Remoteness of damages
+
+. Discuss the principles of remoteness of damage with special reference to the cases of Re Polemis and Wagon Mound.
+. Discuss the rule of foreseeability in determination of remoteness of damages.
+. Discuss remoteness of damage. Refer decided cases
+
+== Nuisance
+
+. Explain _Nuisance_ with its essential characters. Distinguish between public and private nuisance.
+. What is nuisance ? Explain the different kinds of nuisance.
+
+== Malicious Prosecution
+
+. What is malicious prosecution ? Explain its ingredients.
+. Elaborate on Malicious Prosecution.
+. What is Malicious Prosecution ? Explain its essentials.
+. Define malicious prosecution. Explain essential ingredients of malicious prosecution.
+
+== Negligence
+
+. Discuss the tort of negligence with the help of decided cases.
+. What is contributory negligence ? Explain it with the help of decided cases.
+. What is negligence ? Discuss the important features of negligence with suitable cases.
+. _In negligence, liability for the consequences of the wrong is limited by the bounds of reasonable foresight_. Discuss.
+. Explain the Nature of Negligence as a Tort.
+. Explain the ingredients of tort of negligence with the help of decided cases.
+
+== False Imprisonment
+
+. Explain _False Imprisonment_. What are the remedies available in case of false imprisonment ?
+. What must a plaintiff prove in order to succeed in an action for _false imprisonment_ ? Consider the defences available to such an action.
+
+== Strict liability
+
+. What is strict liability ? Describe the justifications for strict liability.
+. What is strict liability ? Discuss the exceptions to strict liability with appropriate cases.
+. Discuss the concepts of strict liability and absolute liability.
+. Explain the principle of strict liability and distinguish it from absolute liability with relevant case laws.
+. Discuss the rule laid down in Rylands vs Fletcher and M.C. Mehta vs Union of India (Oleum gas leak).
+. What is the rule in Rylands-Vs-Fletcher ? How can a defendant avoid his prima facie liability under the rule ?
+. Tort liablity of mater for when servant commits tort
+. Rule in Rylands V. Fletcher
+
+== Vicarious liability
+
+. What is vicarious liability ? Under what circumstances vicarious liability arises ? Explain.
+. What is vicarious liability under what circumstances a master is held liable for the tort committed by his servant ?
+. Discuss with illustrations the liability of a master for the wrongful acts of his servant.
+. Explain the liability of state for the torts committed by its servants.
+. Discuss the liability of master for the acts of his servants.
+. How to determine the relationship between master and servant ? Explain.
+. What is vicarious liability ? Explain with decided cases.
+
+. Explain the liability of the master for the following:
+.. Mistake of servant
+.. Fraud of servant
+.. Negligence of servant
+
+== Consumer Protection Act
+
+. Explain the terms _complaint_ and _complainant_ under the Consumer Protection Act, 1986.
+. State the composition and jurisdiction of district consumer forum.
+. Explain the composition and jurisdiction of District Consumer Forum.
+. Describe the composition and jurisdictions of State Commission.
+. Explain the forums created under Consumer Protection Act, 1986.
+. Discuss the salient features of Consumer Protection Act, 1986
+. Define the terms _consumer_ and _services_. Explain the composition, powers and functions of District Forum.
+. Explain the terms complaint and complainant.
+. What are the objects of the Central Consumer Protection Council?
+. Explain the composition, powers and jurisdiction of state commission.
+. Discuss the provisions relating to Appeals under the Consumer Protection Act, 1986.
+
+== Short notes
+
+. Restrictive trade practice
+. Complaint
+. Inducing for the breach of contract
+. Remedies for nuisance
+. _UBI JUS IBI REMEDIUM_
+. Private defence
+. Statutory Authority
+. Medical services
+. Consumer
+. _Ubi Jus ibi remedium_
+. Mental element in a Tort
+. Rescue cases
+. Distinguish between Tort and Crime
+. The liability for causing nervous shock
+. Actio personalis moritur cum persona
+. Vis-major
+. Prudent man
+. Volenti non fit injuria
+. Assault
+. Malice
+. Unfair trade practices
+. False imprisonment
+. Assault and Battery
+. Nuisance
+. UBI JUS IBI REMEDIUM
+. Intimidation
+. Unfair Trade Practice.
+. _Injuria sine Damnum and Damnum sine Injuria_
+. Kinds of remedies
+. Nuisance
+
+== Case studies
+
+. _X_ a banker refuses to honour customer's cheque having sufficient funds in his account belonging to the customer. Customer intends to file a suit against the banker. Will he succeed ?
+. A school master caned a student who had contrary to the school regulations been smoking in the street. Discuss the liability of the school master.
+. A manufacturer of ice-cream sold a sub-standard ice-cream to the retailer who in turn sold it to a customer. The friend of a customer become ill after consuming it. Discuss the tortious liability.
+. _X_ purchased a ticket for a circus show and entered the gallery to take his seat. He was forcibly turned out by the manager under a mistaken belief that he had no ticket for the show. Can _X_ claim damages from the manager of the Circus Co. ?
+. Pointing a loaded pistol at a person is, of course, an assault. But what if the pistol be unloaded ?
+. Mr. X while on hunting-expedition, fired at a bird. One of the pellets from his gun recoiled from the bough of a tree and accidently struck Y, who was engaged in carrying cartridges and was injured. Is X liable ?
+. X, the occupier of land ploughed it up. Soon afterwards a large crop of thistles grow on the land and large quantities of thistle seeds blow on to the land of his neighbour Y. Is X liable to Y ?
+. The plaintiff and her husband were employed by the defendant who was running a lodge. The husband was employed as manager of the lodge and the wife as his helper. Owing to negligence of the husband the wife sustained injuries. She sued the defendant for damages. Will she win ?
+. _A_ sends a letter to _B_ containing defamatory words about _B_. The letter is opened by _B_ servant who there by comes to know of the contents of the letter. _B_ sues _A_ for defamation. Will he succeed ?
+. _X_ played a practical joke on _Y_, telling her that her husband had lost both his legs in an accident. Hearing this _Y_ suffered nervous shock and got seriously ill. She had to incur huge expenses for treatment. Can she sue _X_ for damages ? Decide.
+. _X_ published a false statement in a newspaper that _Y_ has ceased to carry on his business. As a result _Y_ suffered loss in his business. _Y_ wants to sue _X_. Advice him.
+. A and B were searching for a gas leak. Each applied naked light to the gas pipe in turn and one of them caused an explosion. Can they be held liable as joint tort feasors ? Decide.
+. Mr. B was beating two fighting dogs in order to separate them. Mr. X was watching them and was standing behind Mr. B while doing so, Mr. B accidentally hit the eye of Mr. X and caused severe injury. Can Mr. X claim compensation from Mr. B ?
+. Sudarshan, the chairman of a company was threatened by Suresh and Mahesh. It was in a letter which was drafted by them with the help of two clerks who wrote and typed the letter. Sudarshan sues Suresh and Mahesh for defamation. Can Sudarshan win the case ?
+. A lady entered a hotel and sat below the Ceiling fan. She ordered food and while eating, ceiling fan falls on her. The lady filed a suit against owner for injuries caused to her. Can she succeed ?
+. The plaintiff's and defendant's dogs were fighting. The defendant was beating them in order to separate them, and the plaintiff was watching. Defendant accidentally hit plaintiff's eye causing severe injury. Is defendant liable for damage ?
+. The plaintiff was a Russian Princess. The defendants who produced a talking film called _Rusputin the Mad Monk_. The Plaintiff alleged that in that film it was falsely imputed that she has been seduced by Rusputin, a man of vile character. Decide.
+. A boy of seven years ate some attractive berries from the shrub in a Municipal Park. The berries were poisonous. The boy died. Can the Municipality be made liable ?
+. Naresh while passing near Pradeep's house, Pradeep's dog came out and started barking at Naresh. He took his gun and shot the dog when it was running away. Advise.
+. Catherine sent five coats to Rajiv, a laundry owner to be cleaned and Rajiv with Catherine permission, sent it to specialist laundry and they handed their coats to Muddappa to clean and Muddappa lost them. From whom Catherine claim compensation ?
+. Mr. Praveen purchased a ticket to watch a car race. During the race, a car got entangled in the safety rope and hit Praveen directly and he died consequently. Advise.
+. _A_ fails to save a drowning child. Can he be held tortiously liable?
+. The defendant told the plaintiff as a practical joke that her husband had met with an accident and was seriously injured and lying in the hospital. On hearing this, the plaintiff suffered a nervous shock and became ill. Can she claim damages ?
+. The defendant sent a defamatory letter written in Urdu to the plaintiff. The plaintiff did not know Urdu and therefore the same was read over to him by a third person. The defendant knew that the plaintiff did not know Urdu. Does it amount to defamation ?
+. A hundred year old clock tower was situated in a busy street of Magadha city. The clock tower was exclusively under the control of Municipal Corporation of Magadha city. The normal life time of the clock tower was estimated to be 60 years. The clock tower collapsed resulting in the death of 25 people. Can the Municipal Corporation of Magadha city be held liable ?
+. _Z_ the defendant published a news item in his newspaper that Mr. _X_ married Ms. _Y_. But Mr. _X_ was already married. Mr. _X_'s wife sued _Z_ for defamation – Can she succeed ?
+. The defendant left a two horse van unattended in a crowded street. A boy threws a stone at the horses and they started running away causing injury to women and children. A policeman who was on duty inside the police station seeing the horses running away, rushed out the police station and stopped the horses and in the process sustained injuries. The policeman sued the defendant claiming compensation. Can he succeed ?
+. _A_ was a Chairman at a Parish meeting. _B_ who was sitting seventh places away on the same table proved unruly, where upon a resolution to eject him was passed. _B_ who was annoyed by this, said that he would rather pull _A_ out of the chair. Then he be ejected and moved towards _A_ with clinched fists. But he was stopped by the church warden sitting next. Whether _B_ has committed any wrong ? Decide.
+. The plaintiffs and defendants dogs were fighting. The defendant was beating there in order to separate them. As the plaintiff was looking, the defendant accidentally hit plaintiff's eye causing severe injuries. Is the defendant liable for the damage ?
+. An army vehicle collided with a private car on account of negligence of the driver of army vehicle. A passenger travelling in the car was enjured seriously in the accident. He files a suit for damages against the government. Decide.
